@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+a
+{
+    color: white;
+}
+table, tr, td
+{
+    border-collapse: collapse;
+    background-color: black;
+    border: 1px solid yellow;
+    color: white;
+}
+table
+{
+    width: 600px;
+}
+tr
+{
+    height: 30px;
+}
+td
+{
+    padding: 5px;
+}
